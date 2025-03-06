@@ -1,0 +1,15 @@
+Abilità unica: Resilienza  
+★ L’Atleta ha vantaggio ai tiri su atletica e fuga.  
+ 
+Abilità di specializzazione  
+❖ Incrollabile: la prima volta di ogni sessione in cui l’Atleta scende a zero punti ferita o sanità mentale, 
+lancia un dado percentuale. Se ottieni 50% o superiore, torni ad un punto ferita o sanità mentale e 
+non gira la ruota della sfortuna.  
+❖ Resistente [usi: 3]: l’Atleta ottiene successo automatico ai tri su affaticamento.  
+❖ Buon  esempio  [usi:  3]:  fino  a  due  altri  personaggi  ottengono  vantaggio  al  loro  prossimo  tiro  per 
+atletica o fuga.  
+❖ Resilienza: l’Atleta può resistere un intero giorno senza mangiare e bere e ottiene vantaggio ai tiri 
+su temperature estreme.  
+❖ Esercizio preparatorio [usi: 2]: l’Atleta ottiene 1 impulso aggiuntivo nella prossima scena evento.  
+❖ Muscoli d’acciaio [usi: 5]: l’Atleta ottiene +8% al prossimo tiro per proteggersi.  
+  

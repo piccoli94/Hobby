@@ -1,0 +1,36 @@
+Abilità unica: Ispiratore 
+★ All’inizio di una scena evento, l’Artista sceglie un altro personaggio. Entrambi ottengono +1 impulso. 
+Abilità di specializzazione  
+❖ Sensibilità artistica [usi: 5]: L’Artista ottiene +10% al prossimo tiro su percepire e calmare.  
+❖ Bipolarità del narcisista [usi: 2]: L’Artista entra in uno stato di euforia, ottenendo vantaggio ai tiri su 
+caratteristiche  psicologiche/mentali.  Se,  in  questo  stato,  un  tiro  su  tale  caratteristica  fallisce, 
+l’Artista  entra  in  uno  stato  di  depressione  e  ottiene  svantaggio ai tiri su caratteristiche 
+psicologiche/mentali. Se, in questo stato, un tiro su tale caratteristica ha successo, l’effetto di questa 
+abilità termina.  
+❖ Arte iperrealista  [usi: 3]: l’Artista crea su una superficie un’opera iperrealista in grado di distrarre 
+e/o  confondere  una  creatura  o  un  NPC,  dando  vantaggio  ai  tiri  su  furtività,  fuga  o  distrarre  ai 
+personaggi nei confronti di quella creatura o NPC.  
+❖ Musico  esperto  [usi:  3]:  durante  una  scena  evento, l’Artista si esibisce con canto e suonando, ed 
+effettua un tiro con PS 55%. Se superato, tutti i personaggi nelle vicinanze avranno vantaggio ai tiri 
+per colpire, affaticamento e  tiro su paura e stress fino a quando l’Artista non smette di esibirsi o 
+viene interrotto. L’Artista non può effettuare altre azioni durante la sua esibizione, fatta eccezione 
+per il tiro su proteggersi.  
+❖ Performance dal vivo [usi: 2]: fuori dalla scena evento, l’Artista si esibisce risollevando il morale di 
+tutto il party. Gli altri personaggi nelle vicinanze rimuovono la condizione di ansia. PS 40%. Se l’Artista 
+ottiene successo critico, tutti gli altri personaggi ripristinano 1 punto sanità mentale.  
+❖ Arte  e  dolore: l’Artista trae ispirazione artistica tramite l’autolesionismo. Il personaggio perde 1 
+punto ferita e guadagna 1 punto sanità mentale.  
+❖ Pittura di guerra [usi  3]:  l’Artista  utilizza  colori  e  simboli  per  stimolare  l’aggressività  di  un 
+personaggio.  I  personaggi  che  ricevono  la  pittura  di  guerra  ottengono  +5%  ai  tiri  per  colpire  e 
+vantaggio ai tiri su paura e stress durante la prossima scena evento.  
+❖ Trucco  di  scena  [usi: 3]: l’Artista trucca sé stesso o un altro personaggio in modo da apparire più 
+affascinante o spaventoso. Il personaggio ottiene +15% ai tiri su persuasione.  
+❖ Moda  postapocalittica  [usi: 3]: fuori da una scena evento, l’Artista modifica l’indumento di un 
+personaggio in uno dei seguenti modi:  
+➢ Tuta mimetica: il personaggio ottiene +7% ai tiri su furtività e fuga.  
+➢ Abbigliamento termico: il personaggio è immune ai tiri su temperature estreme. 
+➢ Vestito aderente:  il personaggio ottiene vantaggio ai tiri su affaticamento.  
+ 
+Equipaggiamento di base 
+Zaino - Torcia ad energia cinetica - Accendino al plasma - Sacco a pelo termico - Bottiglia filtrante per acqua 
+- Lacci emostatici e bende - Taccuino e matite - Materiali estetici: tessuti, oggetti decorativi 

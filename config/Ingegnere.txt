@@ -1,0 +1,40 @@
+Abilità unica: Costruttore 
+★ L’Ingegnere può ricercare materiali relativi alla costruzione una volta per sessione. Lancia un dado 
+percentuale, questo decreterà quanti materiali il personaggio reperisce all’inizio della sessione.                                     
+1%-25% = 5 materiali   26%-50% = 8 materiali   51%-75% = 10 materiali 76%-100% = 12 materiali 
+Abilità di specializzazione  
+❖ Protezioni [costo: 10 materiali]: fornisce un punto ferita addizionale a chi le indossa. Non è possibile 
+indossare più di una protezione per volta. Queste possono essere riparate al costo di 3 materiali ed 
+effettuando un tiro su riparare 
+❖ Esoscheletro  [costo: 25 materiali]: chiunque indossi l’esoscheletro è immune all’affaticamento  ed 
+ottiene  +5%  ai  tiri  su  atletica,  colpire,  proteggersi  e  fuga.  Inoltre,  ottiene  -20%  ai  tiri  su  furtività. 
+L’esoscheletro può essere riparato con un costo di materiali pari al danno subito.  
+❖ Fabbro d’arme: l’Ingegnere crea le seguenti armi. 
+ 
+Tipo di arma Costo in materiali  
+Arma da fuoco pesante 22 materiali 
+Arma da fuoco leggera  15 materiali  
+Arma bianca lungo raggio 15 materiali 
+Arma bianca corto raggio 7 materiali 
+Arma bianca da lancio  7 materiali  
+Proiettili  1 materiale l’uno 
+ 
+❖ Dispositivo di disturbo [2 volte per sessione]: fornisce a tutti i membri del party nelle vicinanze +7% 
+al tiro su furtività e/o  al tiro per distrarre degli NPC.  
+❖ Competenza ingegneristica: l’Ingegnere ottiene +15% per riparare. 
+❖ Estrattore:  quando l’Ingegnere  supera  con  successo  un  tiro  su  ecologia,  ottiene  1  materiale  se  il 
+contesto lo giustifica.  
+❖ Scudo di energia [costo: 2 materiali]: l’Ingegnere ha un piccolo dispositivo che proietta uno scudo di 
+energia che dura 3 turni dalla sua attivazione. I personaggi nelle vicinanze ottengono +10% al tiro su 
+proteggersi. 
+❖ Scanner [costo: 2 materiali]: l’Ingegnere scannerizza l’area rilevando trappole ed indizi. Ottiene +15% 
+al suo prossimo tiro su investigare o percezione.  
+❖ Riciclatore di fortuna: l’Ingegnere può smantellare degli oggetti da lui creati per ottenere un numero 
+di materiali pari alla metà arrotondata per eccesso.  
+  
+ 
+ 
+Equipaggiamento di base 
+Zaino - Torcia ad energia cinetica - Accendino al plasma - Sacco a pelo termico - Bottiglia filtrante per acqua- 
+Lacci emostatici e bende - Cacciavite multifunzione - Saldatore portatile - Kit di attrezzi: include pinza, chiave 
+inglese e strumenti di precisione

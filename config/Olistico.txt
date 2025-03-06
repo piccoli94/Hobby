@@ -1,0 +1,16 @@
+Abilità unica:  
+★ Seguire  il  flusso  :  Quando  l’Olistico ripete un’azione due volte consecutive, ottiene +5%  di  bonus 
+sulla seconda volta che effettua l’azione. 
+ 
+Abilità di specializzazione  
+❖ Cambiare  il  fato  [usi: 2]: quando l’Olistico fallisce un tiro sul dado percentuale, può effettuare un 
+nuovo tiro.  
+❖ Flusso dell’equilibrio [usi: 2]: ripristina 1 uso ad un’abilità di un altro personaggio.  
+❖ Espansione  della  consapevolezza  [usi: 3]: l’Olistico ottiene +10%  ai  tiri  su  percezione.  Riduci  di  1 
+stadio di gravità di ansia. Se la condizione di ansia è lieve, toglila.  
+❖ Ancoraggio  spirituale  [usi: 2]: l’Olistico può perdere 1  punto  sanità  mentale  per  rimuovere  una 
+condizione da sé stesso o un altro personaggio.  
+❖ Trasferire  energia  [usi:  2]:  durante  una  scena  evento, l’Olistico può perdere 1  impulso  o  1  punto 
+ferita per dare +1 impulso ad un altro personaggio.  
+❖ Benedizione dell’equilibrio [usi: 1]: durante una scena evento, l’Olistico non può avere svantaggio 
+ai tiri per tutta la scena evento. 

@@ -1,0 +1,22 @@
+Abilità unica: Segugio  
+★ L’Investigatore ha vantaggio ai tiri su investigare e percepire.  
+Abilità di specializzazione  
+❖ Indizio nascosto [usi: 1]: l’Investigatore riesce a scoprire indizi risolutivi per una situazione o nuova 
+scoperta. Chiedi al master un indizio chiave. 
+❖ Spia [usi: 5]: l’investigatore ottiene  +10% ai tiri su furtività e +5% ai tiri su fuga.  
+❖ Interrogatore: l’Investigatore può interrogare un NPC senziente che non può muoversi e ottenere 
++15% ai tiri su persuadere per estrarre informazioni importanti.   
+❖ Riconoscere il  pattern  [usi: 3]: l’Investigatore può prevedere la prossima azione di una creatura o 
+NPC.  L’azione  che  viene  dichiarata  dal  master.  Effettua  un  tiro su caratteristiche 
+psicologiche/mentali con PS 35%. L’Investigatore ottiene vantaggio ai tiri su proteggersi da quella 
+creatura o NPC. 
+❖ Lettura della scena [usi: 2]: l’Investigatore è in grado di ricostruire con estrema precisione un evento 
+accaduto in una determinata area, basandosi sui dettagli. L’Investigatore è in grado di dedurre la 
+sequenza degli eventi recenti come ad esempio l’intera scena di un crimine  o  la  direzione  di  un 
+proiettile.  
+❖ Gadget multifunzione [usi: 3]: l’Investigatore può usare un gadget in grado di 
+➢ Cambiare voce: usa una voce di un altro personaggio, creatura o NPC per avere +10% ai tiri 
+su distrarre e persuasione. 
+➢ Hacking: estrai dati da un apparecchio tecnologico o violare un sistema elettronico. Effettua 
+un tiro su caratteristiche psicologiche/mentali con PS determinata dal master.  
+➢ Drone: usa un drone per esplorare un’area ad una distanza massima di 100 metri. 

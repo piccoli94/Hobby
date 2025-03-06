@@ -1,0 +1,41 @@
+Abilità unica: Ricercatore  
+★ Il Medico può ricercare reagenti relativi alla cura una volta per sessione. Lancia un dado percentuale, 
+questo decreterà quanti materiali il personaggio reperisce all’inizio della sessione. 1%-25%  =  5 
+reagenti   26%-50% = 8 reagenti   51%-75% = 10 reagenti 76%-100% = 12 reagenti 
+
+Abilità di specializzazione  
+❖ Medicinali analgesici: 
+● Farmaco rigenerativo: ripristina un punto ferita [costo: 10 reagenti] 
+● Terapia  farmacologica:  rimuovi  il  veleno  o  cura  una  malattia  contratta  da  un  personaggio 
+[costo: 10 reagenti] 
+● Adrenalina di emergenza: Un personaggio a 0 punti ferita ottiene 1 punto ferita e può agire 
+per 2 turni aggiuntivi prima di cadere in coma. Utilizzabile una volta per sessione. [costo: 10 
+reagenti] 
+ 
+❖ Medicinali nootropi:  
+● Calmante: ripristina un punto sanità mentale [costo: 12 materiali] 
+● Ansiolitici: conferiscono +10% ai tiri su paura e stress per il resto della sessione e rimuove la 
+condizione di ansia [costo: 8 materiali] 
+● Steroidi:  conferiscono  +15%  ai  tiri  su  atletica  e  colpire  per  2  ore.  Rimuove  la  condizione 
+affaticato [costo: 8 materiali] 
+ 
+❖ Curare [usi: 2]: fuori dalla scena evento il Medico ripristina un punto ferita ad un altro personaggio. 
+Lancia  un  dado  percentuale  per  vedere  se  l’azione  ha  successo  con  PS su caratteristica 
+psicologica/mentale del 45%.  
+❖ Competenza medica: il Medico ottiene +10% quando tira per rianimare e suturare. 
+❖ Blocco emorragico [costo: 2 reagenti]: il Medico supera automaticamente il tiro su suturare.  
+❖ Naturalista:  quando  il  Medico  supera  con  successo  un  tiro  su  botanica  o  anatomia,  ottiene  1 
+reagente se il contesto lo giustifica.  
+❖ Chirurgia d’emergenza [usi:  2]: durante  una scena evento, utilizza il tuo turno e quello di un altro 
+personaggio selezionato per ripristinargli un punto ferita. Questa azione è annullata se il Medico o il 
+personaggio vengono colpiti o qualcosa interromperebbe l’operazione.  
+❖ Resistenza psicologica e fisica [usi: 5]: il Medico ottiene vantaggio alle prove ai tiri su paura e stress 
+e su affaticamento.  
+❖ Iniezione paralizzante [usi: 2]: il Medico usa una siringa con un siero paralizzante su una creatura o 
+NPC. Effettua un tiro su dado percentuale su caratteristica fisica con PS determinata dal master. Se 
+superato, la creatura o NPC è paralizzata. 
+
+Equipaggiamento di base 
+Zaino - Torcia ad energia cinetica - Accendino al plasma - Sacco a pelo termico - Bottiglia filtrante per acqua 
+-  Lacci  emostatici  e  bende  -  Kit  di  pronto  soccorso:  include  bende  e  strumenti  per  sutura  -  Defibrillatore 
+portatile - Siringhe multiuso - Maschera sterile  

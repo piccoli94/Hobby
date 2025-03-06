@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: 3.11",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "python": "C:/Users/picco/AppData/Local/Microsoft/WindowsApps/python.exe"
+        }
+    ]
+}

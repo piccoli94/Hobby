@@ -1,0 +1,14 @@
+Abilità unica: Equilibrato 
+★ L’Analitico inizia la sessione con un punto sanità mentale aggiuntivo. 
+ 
+Abilità di specializzazione  
+❖ Sangue freddo [usi: 5]: l’Analitico ottiene +8% ai tiri su paura e stress e ai tiri su percepire.  
+❖ Psicoanalisi [usi: 2]: fuori dalla scena evento, l’Analitico prova a ripristinare un punto sanità mentale 
+ad un altro personaggio. Effettua un tiro su caratteristiche psicologiche/mentali con PS 55% . Se il 
+tiro fallisce, rimuovi da quel personaggio la condizione di ansia, se presente.  
+❖ Analisi della situazione [usi: 2]: l’Analitico o un altro personaggio ottengono +8% ai tiri per colpire o 
+proteggersi. 
+❖ Simulazione mentale [usi:  1]:  l’Analitico  riesce  a  prevedere  gli  sviluppi  di  una  situazione 
+analizzandola. Chiedi al master un’indicazione sulle possibili conseguenze di una scelta.  
+❖ Raziocinio [usi: 1]: se l’Analitico ha la condizione ansia, rimuovila.  
+❖ Formazione pianificata [usi: 2]: effettuare un’azione di gruppo non richiede impulsi. 

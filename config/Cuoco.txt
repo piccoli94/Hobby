@@ -1,0 +1,46 @@
+Abilità unica: Foraggiare 
+★ Il Cuoco è in grado di riconoscere se un ingrediente è edibile o no. Una volta per sessione può reperire 
+ingredienti. Lancia un dado percentuale, questo decreterà quanti ingredienti il personaggio reperisce 
+all’inizio della sessione. 
+1%-25%  =  5  ingredienti      26%-50%  =  8  ingredienti  51%-75%  =  10  ingredienti    76%-100%  =  12 
+ingredienti 
+Abilità di specializzazione  
+❖ Cucina gourmet: cucina uno dei seguenti pasti 
+● Zuppa [costo: 2 ingredienti]: sfama e disseta un personaggio per metà giornata.  
+● Pasto  completo  [costo  4  ingredienti]:  sfama  e  disseta  un  personaggio  per  un  giorno  e 
+rimuove la condizione affaticato. 
+● Bevanda energetica [costo: 5 ingredienti]: sfama e disseta un personaggio per un giorno e 
+fornisce 1 impulso addizionale all’inizio del turno della prossima scena evento.  
+❖ Pasti rinforzanti: cucina uno dei seguenti pasti 
+● Strana carne [costo: 3 ingredienti]: sfama e disseta un personaggio e fornisce +5% ai tiri su 
+caratteristiche fisiche per metà giornata. 
+● Crema di funghi [costo: 3 ingredienti]: sfama e disseta un personaggio e fornisce +10% ai tiri 
+contro veleno e malattie per metà giornata.  
+● Sapori confortanti [costo: 4 ingredienti]: sfama e disseta un personaggio e fornisce 
+vantaggio ai tiri su paura e stress per metà giornata.  
+❖ Cibo insidioso: cucina uno dei seguenti pasti  
+● Cibo tossico [costo: 4 ingredienti]: crea un pasto tossico in grado di avvelenare o 
+addormentare una creatura o NPC. PS: 55%. 
+● Alimento maleodorante [costo: 4 ingredienti]: crea un pasto maleodorante in grado di far 
+allontanare una o più creature o NPC. PS:55% 
+● Pasto esca [costo: 5 ingredienti]: crea un pasto invitante ma letale in grado di danneggiare 
+con una piccola esplosione una creatura o NPC. PS:55% 
+❖ Foraggiatore:  quando  il  Cuoco  supera  con  successo  un  tiro  su  botanica  o  anatomia,  ottiene  1 
+ingrediente se il contesto lo giustifica.  
+❖ Avanzi [usi: 2]: ottieni un pasto cucinato aggiuntivo a tua scelta tra quelli già cucinati.  
+❖ Cuoco  chimico  [usi:  2]:  il  Cuoco  o  un  altro  personaggio  ottiene  vantaggio  ad  un  prossimo  tiro  su 
+botanica o anatomia.   
+❖ Attrezzi  culinari:  il  Cuoco  usa  gli  attrezzi  culinari  per  colpire  come  fossero  armi  speciali  che 
+forniscono +5% ai tiri per colpire. 
+❖ Prendere per lo stomaco [usi: 3]: il Cuoco utilizza il suo carisma e la sua conoscenza del gusto per 
+costruire relazioni e migliorare l’interazione con gli NPC, ottenendo +10% ai tiri su persuasione.   
+❖ Cacciatore  [usi:  2]:  il  Cuoco  utilizza  le  sua  abilità  primordiali  per  creare  una  trappola  in  grado  di 
+trattenere una creatura o un NPC che la calpesta. Lancia un dado percentuale per vedere se l’azione 
+ha successo con PS determinata dal master.  
+  
+ 
+ 
+Equipaggiamento di base 
+Zaino - Torcia ad energia cinetica - Accendino al plasma - Sacco a pelo termico - Bottiglia filtrante per acqua 
+-  Lacci  emostatici  e  bende  -  Set  da  cucina  portatile  -  Filtro  per  acqua  -  Kit  per  foraggiare:  per  identificare 
+ingredienti commestibili 

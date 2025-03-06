@@ -1,0 +1,18 @@
+Abilità unica: Leader  
+★ L’Incitatore fornisce +5% ai tiri percentuale a tutto il party, eccetto se stesso, sulle prove basate su 
+caratteristiche fisiche.  
+ 
+Abilità di specializzazione  
+❖ Performance:  durante  una  scena  evento,  l’Incitatore attira tutta l’attenzione su di sé venendo 
+bersagliato da creature ed NPC nelle vicinanze. 
+❖ Incitare [usi: 3]: un altro personaggio selezionato, avrà vantaggio al prossimo tiro su prove basate su 
+caratteristiche  fisiche.  Se  il  personaggio  selezionato  avrebbe  dovuto  avere  svantaggio  al  tiro,  avrà 
+invece vantaggio. 
+❖ Infervorare  [usi: 2]:  scegli una creatura o NPC senziente che attacca o tenta di colpire fisicamente 
+l’Incitatore o un altro personaggio. Tutto il party ottiene vantaggio per proteggersi dalla creatura o 
+NPC scelta. 
+❖ Voce  del  leader  [usi:  2]:  come  reazione,  se  un  altro personaggio  sta  per  ottenere  la  condizione  di 
+ansia, questa non viene applicata.  
+❖ Energia contagiosa [usi: 2]: in una scena evento, l’Incitatore ed un altro personaggio ottengono +1 
+impulso al loro prossimo turno.  
+❖ Parole infuocate [usi: 2]:  l’Incitatore rimuove la condizione affaticato ad un altro personaggio. 

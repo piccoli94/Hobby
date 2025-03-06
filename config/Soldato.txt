@@ -1,0 +1,20 @@
+Abilità unica: Sempre preparato 
+★ Una volta per turno il Soldato non spende impulsi per attivare le abilità di specializzazione.  
+ 
+Abilità di specializzazione  
+❖ Frenesia: quando il Soldato ottiene la condizione sanguinante, ottiene +15% ai tiri sulle 
+caratteristiche fisiche per i prossimi 2 turni. 
+❖ Proteggere [usi: 5]: come reazione, proteggi un altro personaggio vicino, aggiungendo +10% al tiro 
+per proteggersi. 
+❖ Strategia militare [usi: 5]: il Soldato ottiene +7% addizionale per percepire minacce imminenti. 
+❖ Adrenalina da battaglia [usi: 1]: quando il Soldato scende per la prima volta a 0 punti ferita, ottiene 
+1 punto ferita temporaneo per 3 turni, poi scende nuovamente a 0.  
+❖ Arma improvvisata [usi: 5]: il Soldato può usare qualsiasi oggetto come arma speciale ottendo +3% 
+ai tiri per colpire.  
+❖ Maestro d’arme: il Soldato può utilizzare fino a 2 armi di piccole o medie dimensioni.  
+❖ Mentore [usi: 3]: il Soldato fornisce fino a 2  altri personaggi +5% ai prossimi tiri per colpire e atletica.   
+❖ Infiltrato [usi: 3]: il Soldato ottiene +15% al suo prossimo tiro su furtività. 
+❖ Addestramento marziale [usi: 5]: Il Soldato ottiene +8% addizionale ai tiri per colpire e proteggersi. 
+Equipaggiamento di base 
+Zaino - Torcia ad energia cinetica - Accendino al plasma - Sacco a pelo termico - Bottiglia filtrante per acqua 
+- Lacci emostatici e bende - Pistola [arma da fuoco leggera] - 18 proiettili - Granata fumogena

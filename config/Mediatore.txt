@@ -1,0 +1,19 @@
+Abilità unica: Nessuna minaccia, nessuna paura 
+★ Il  Mediatore  convince  creature  o  NPC  senzienti  con  cui  ha  dialogato  di  non  essere  una  minaccia. 
+Questi non saranno ostili nei suoi confronti a meno che il Mediatore non li colpisce.  
+Abilità di specializzazione  
+❖ Oratore esperto [usi: 5]: il Mediatore aggiunge +10% ai tiri su persuasione e +7% ai tiri su percezione 
+con un NPC con il quale ha dialogato.  
+❖ Diplomatico nato [usi: 2]: il Mediatore cerca di negoziare una tregua o evitare uno scontro con una 
+creatura o NPC senziente. Lancia un tiro su persuasione con PS determinata dal master. Se il tiro ha 
+successo, la creatura o NPC cessa le ostilità per una scena evento. Se si ottiene un successo critico, 
+l’effetto si estende a più creature o NPC.  
+❖ Linguista: Il Mediatore può leggere, scrivere e parlare qualsiasi lingua che abbia già ascoltato o letto.  
+❖ Ottima argomentazione [usi: 3]: il Mediatore può provare a liberare sé stesso o un altro personaggio 
+trattenuto da una creatura o NPC senziente convincendolo, effettuando un tiro su persuasione con 
+PS 30%.  
+❖ Ultime parole [usi: 1]: se un una creatura o NPC senziente intende colpire il Mediatore, mentre ha a 
+disposizione un solo punto ferita, questo viene convinto a non farlo, agendo diversamente secondo 
+la discrezione del master.  
+❖ Cambiare idea [usi: 1]: il Mediatore prova a convincere una creatura o un NPC senziente a passare 
+dalla sua parte. Lancia un tiro su persuasione con PS determinata dal master.
