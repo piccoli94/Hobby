@@ -1,0 +1,33 @@
+ren
+
+Classi
+Medico, Analitico
+
+Abilità Unica:
+❖Medicinali analgesici: 
+● Farmaco rigenerativo: ripristina un punto ferita [costo: 10 reagenti] 
+● Terapia  farmacologica:  rimuovi  il  veleno  o  cura  una  malattia  contratta  da  un  personaggio 
+[costo: 10 reagenti] 
+● Adrenalina di emergenza: Un personaggio a 0 punti ferita ottiene 1 punto ferita e può agire 
+per 2 turni aggiuntivi prima di cadere in coma. Utilizzabile una volta per sessione. [costo: 10 
+reagenti]
+
+❖Sangue freddo [usi: 5]: l’Analitico ottiene +8% ai tiri su paura e stress e ai tiri su percepire.
+
+Abilità Scelte:
+
+  ❖Medicinali nootropi:  
+● Calmante: ripristina un punto sanità mentale [costo: 12 materiali] 
+● Ansiolitici: conferiscono +10% ai tiri su paura e stress per il resto della sessione e rimuove la 
+condizione di ansia [costo: 8 materiali] 
+● Steroidi:  conferiscono  +15%  ai  tiri  su  atletica  e  colpire  per  2  ore.  Rimuove  la  condizione 
+affaticato [costo: 8 materiali]
+
+  ❖Curare [usi: 2]: fuori dalla scena evento il Medico ripristina un punto ferita ad un altro personaggio. 
+Lancia  un  dado  percentuale  per  vedere  se  l’azione  ha  successo  con  PS su caratteristica 
+psicologica/mentale del 45%.
+
+  ❖Psicoanalisi [usi: 2]: fuori dalla scena evento, l’Analitico prova a ripristinare un punto sanità mentale 
+ad un altro personaggio. Effettua un tiro su caratteristiche psicologiche/mentali con PS 55% . Se il 
+tiro fallisce, rimuovi da quel personaggio la condizione di ansia, se presente.
+

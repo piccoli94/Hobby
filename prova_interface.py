@@ -3,102 +3,173 @@ import csv
 import os
 import re
 
-def apri_nuova_finestra(nome, flag):
+# Funzione per chiudere la prima finestra e aprire la seconda
+def apri_seconda_finestra(nome):
     root.destroy()  # Chiude la prima finestra
-    interfaccia_scelte_multiple(nome, nuovo_dizionario[nome], flag)  # Apre la nuova finestra con le scelte multiple
+    character_sheet.append(nome)
+    seconda_finestra(nome)
 
-def interfaccia_scelte_multiple(nome, opzioni, flag):
-    nuova_root = tk.Tk()
-    
-    switcher = {
-        0: f"Scegli le abilità del {nome}",
-        1: f"Scegli le abilità del {nome}",
-        2: f"Scegli l'equip' del {nome}"
-    }
-    nuova_root.title(switcher.get(flag, "Selezione"))
+# Funzione per chiudere la seconda finestra e aprire la terza
+def apri_terza_finestra():
+    seconda_root.destroy()  # Chiude la seconda finestra
+    terza_finestra()
 
-    switcher = {
-        0: "Seleziona abilità unica e 3 specializzazioni.",
-        1: "Seleziona abilità unica e 2 specializzazioni.",
-        2: "Seleziona 2 equipaggiamenti."
-    }
-    label = tk.Label(nuova_root, text=switcher.get(flag, "Seleziona opzioni"))
+def apri_quarta_finestra(nome):
+    third_root.destroy()
+    character_sheet.append(nome)
+    quarta_finestra(nome)
+
+# Prima finestra
+def prima_finestra():
+    global root
+
+    istart = 0
+    iend = len(nuovo_dizionario.keys()) // 2
+
+    root = tk.Tk()
+    root.title("Prima Finestra")
+
+    label = tk.Label(root, text="Questa è la prima finestra")
     label.pack(pady=20)
 
-    variabili_opzioni = []
+
+    for nome in list(nuovo_dizionario.keys())[int(istart):int(iend)]:
+        checkbutton = tk.Button(root, text=nome, command=lambda n=nome: apri_seconda_finestra(n))
+        checkbutton.pack(pady=5)
+
     
-    if flag != 2:
-        for opzione in opzioni[:-2]:
-            var = tk.IntVar()
-            checkbutton = tk.Checkbutton(nuova_root, text=opzione, variable=var)
-            checkbutton.pack(pady=5)
-            variabili_opzioni.append(var)
-    else:
-        list_equip = opzioni[:-1].split("-")
+    #ok_button = tk.Button(root, text="OK", command=apri_seconda_finestra)
+    #ok_button.pack(pady=20)
+
+    root.mainloop()
+
+# Seconda finestra
+def seconda_finestra(nome):
+    global seconda_root
+    seconda_root = tk.Tk()
+    seconda_root.title("Seconda Finestra")
+
+    label = tk.Label(seconda_root, text="Seleziona le abilità")
+    label.pack(pady=20)
+    opzioni=nuovo_dizionario[nome]
+    variabili_opzioni = []
+
+    for opzione in opzioni[:-2]:
         var = tk.IntVar()
-        checkbutton = tk.Checkbutton(nuova_root, text=list_equip[1:], variable=var)
+        checkbutton = tk.Checkbutton(seconda_root, text=opzione, variable=var)
         checkbutton.pack(pady=5)
         variabili_opzioni.append(var)
 
+    def check():
+        selezioni = []
+        
+        flag_abilita_unica = False
+        for i, var in enumerate(variabili_opzioni):
+            if i == 0 and var.get() != 1:
+                flag_abilita_unica = True
+            
+            if var.get() == 1:
+                selezioni.append(opzioni[i])      
+
+        if (len(selezioni) > 4):
+            errore_label.config(text="Devi selezionare solo 4 abilità! Di cui una unica")
+            return
+
+        if (len(selezioni) < 4):
+            errore_label.config(text="Devi selezionare ancora "+str(4-len(selezioni))+" abilità tra cui una unica")
+            return
+
+        if (len(selezioni) == 4 and flag_abilita_unica):
+            errore_label.config(text="Devi selezionare una abilità unica!")
+            return
+        
+        print(f"Hai selezionato: {selezioni}")
+        character_sheet.append(selezioni)
+        apri_terza_finestra()
+
+    ok_button = tk.Button(seconda_root, text="OK", command=check)
+    ok_button.pack(pady=20)
+
+    errore_label = tk.Label(seconda_root, text="", fg="red")
+    errore_label.pack(pady=5)
+
+    seconda_root.mainloop()
+
+# Terza finestra
+def terza_finestra():
+
+    global third_root
+    third_root = tk.Tk()
+    third_root.title("Terza Finestra")
+
+    label = tk.Label(third_root, text="Questa è la terza finestra")
+    label.pack(pady=20)
+
+
+    istart = len(nuovo_dizionario.keys()) // 2 
+    iend = len(nuovo_dizionario.keys())
+
+    for nome in list(nuovo_dizionario.keys())[int(istart):int(iend)]:
+        checkbutton = tk.Button(third_root, text=nome, command=lambda n=nome: apri_quarta_finestra(n))
+        checkbutton.pack(pady=5)
+
+    third_root.mainloop()
+
+def quarta_finestra(nome):
+    global quarta_root
+    quarta_root = tk.Tk()
+    quarta_root.title("Quarta Finestra")
+
+    label = tk.Label(quarta_root, text="Seleziona le abilità")
+    label.pack(pady=20)
+    opzioni=nuovo_dizionario[nome]
+    variabili_opzioni = []
+
+    for opzione in opzioni[:-2]:
+        var = tk.IntVar()
+        checkbutton = tk.Checkbutton(quarta_root, text=opzione, variable=var)
+        checkbutton.pack(pady=5)
+        variabili_opzioni.append(var)
+        
     def termina():
         selezioni = []
         
-        if flag == 0 or flag == 1:
-            flag_abilita_unica = False
-            for i, var in enumerate(variabili_opzioni):
-                if i == 0 and var.get() != 1:
-                    flag_abilita_unica = True
-                
-                if var.get() == 1:
-                    selezioni.append(opzioni[i])
+        flag_abilita_unica = False
+        for i, var in enumerate(variabili_opzioni):
+            if i == 0 and var.get() != 1:
+                flag_abilita_unica = True
             
-            if (flag == 0 and (len(selezioni) != 4 or flag_abilita_unica)) or \
-               (flag == 1 and (len(selezioni) != 3 or flag_abilita_unica)):
-                errore_label.config(text="Selezione non valida!")
-                return
-        
-        elif flag == 2:
-            for i, var in enumerate(variabili_opzioni):
-                if var.get() == 1:
-                    selezioni.append(opzioni[i])
-            
-            if len(selezioni) != 2:
-                errore_label.config(text="Seleziona esattamente 2 opzioni!")
-                return
-        
-        print(f"Hai selezionato: {selezioni}")
-        nuova_root.destroy()
-        
-        # Open the next interface based on the current flag
-        if flag == 0:
-            crea_pulsanti(1)
-        elif flag == 1:
-            crea_pulsanti(2)
+            if var.get() == 1:
+                selezioni.append(opzioni[i])      
 
-    ok_button = tk.Button(nuova_root, text="OK", command=termina)
+        if (len(selezioni) > 3):
+            errore_label.config(text="Devi selezionare solo 3 abilità! Di cui una unica")
+            return
+
+        if (len(selezioni) < 3):
+            errore_label.config(text="Devi selezionare ancora "+str(3-len(selezioni))+" abilità tra cui una unica")
+            return
+
+        if (len(selezioni) == 3 and flag_abilita_unica):
+            errore_label.config(text="Devi selezionare una abilità unica!")
+            return
+
+        print(f"Hai selezionato: {selezioni}")
+        character_sheet.append(selezioni)
+        quarta_root.destroy()
+
+    ok_button = tk.Button(quarta_root, text="OK", command=termina)
     ok_button.pack(pady=20)
 
-    errore_label = tk.Label(nuova_root, text="", fg="red")
+    errore_label = tk.Label(quarta_root, text="", fg="red")
     errore_label.pack(pady=5)
 
-    nuova_root.mainloop()
 
-def crea_pulsanti(flag):
-    nuova_root = tk.Tk()
-    nuova_root.title("Pulsanti Nomi")
 
-    if flag == 0 or flag == 2:
-        istart = 0
-        iend = len(nuovo_dizionario.keys()) // 2
-    elif flag == 1:
-        istart = len(nuovo_dizionario.keys()) // 2 + 1
-        iend = len(nuovo_dizionario.keys())
 
-    for nome in list(nuovo_dizionario.keys())[int(istart):int(iend)]:
-        button = tk.Button(nuova_root, text=nome, command=lambda n=nome: apri_nuova_finestra(n, flag))
-        button.pack(pady=5)
+    quarta_root.mainloop()
 
-    nuova_root.mainloop()
+
 
 def read_matching_files(csv_path, config_folder):
     if not os.path.exists(config_folder):
@@ -151,16 +222,55 @@ def estrai_blocchi_simboli(risultati):
 
     return nuovo_dizionario
 
+def print_sheet(character_sheet):
+    try:
+        with open(txt_path, 'w', encoding='utf-8') as file:
+            file.write(f"{character_sheet[0]}\n\n")
+            file.write("Classi\n")
+            file.write(f"{character_sheet[1]}, {character_sheet[3]}\n\n")
+            file.write("Abilità Unica:\n")
+            file.write(f"{character_sheet[2][1]}\n\n")
+            file.write(f"{character_sheet[4][1]}\n\n")
+            file.write("Abilità Scelte:\n\n")
+            lista_abilita = [character_sheet[2][2:],character_sheet[4][2:]]
+            for element in lista_abilita:
+                for abilita in element:
+                    file.write(f"  {abilita}\n\n")
+    except FileNotFoundError:
+        print('{file_path} not found')
+    except Exception as e:
+        print('An error occurred: {e}')    
+    
+# Nuova funzione per l'interfaccia di input del nome
+def input_nome():
+    def salva_nome():
+        nome = entry.get()
+        character_sheet.append(nome)
+        input_root.destroy()
+        prima_finestra()
+
+    input_root = tk.Tk()
+    input_root.title("Inserisci Nome")
+
+    label = tk.Label(input_root, text="Inserisci il tuo nome:")
+    label.pack(pady=20)
+
+    entry = tk.Entry(input_root)
+    entry.pack(pady=10)
+
+    save_button = tk.Button(input_root, text="Salva", command=salva_nome)
+    save_button.pack(pady=20)
+
+    input_root.mainloop()
+
+# Avvia il programma con la prima finestra
 if __name__ == "__main__":
     csv_path = "classi_e_skill.csv"
+    txt_path = "character_sheet.txt"
     config_folder = "config"
-
+    global nuovo_dizionario
     risultati = read_matching_files(csv_path, config_folder)
     nuovo_dizionario = estrai_blocchi_simboli(risultati)
-
-    root = tk.Tk()
-    root.title("Pulsanti Nomi")
-    flag = 0
-    crea_pulsanti(flag)
-
-    root.mainloop()
+    character_sheet=[]
+    input_nome()
+    print_sheet(character_sheet)
